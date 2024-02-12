@@ -1,6 +1,6 @@
 import '../css/application.css';
 import $ from './jquery-2.1.0.min.js'
-var names = ['Tiger', 'Samuel', 'Leeloo',
+var names = ['Xisco C', 'Samuel', 'Leeloo',
              'Bella', 'Mo', 'Sly',
              'Beezy', 'Maple', 'Rodney',
              'Yonce', 'Reginald', 'Winifred'];
